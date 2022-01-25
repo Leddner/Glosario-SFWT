@@ -21,7 +21,13 @@ Se refiere a todas y cualquier parte del código de una página web, aplicación
 Algunos de sus componentes son bases de datos, servidor web y algunos lenguajes de programación, entre otros.[4,5]
 
 #### Base de datos
-Una base de datos es una recopilación organizada de información, comúnmente almacenada de manera electrónica, y que puede ser controlada por un *sistema de control de datos (DMBS)*. La mayoría de las bases de datos actualmente utilizan un lenguaje de consulta estructurada (SQL) para escribir y consultar datos. [6]
+Una base de datos es una recopilación organizada de información, comúnmente almacenada de manera electrónica, y que puede ser controlada por un *sistema de control de datos (DMBS)*. La mayoría de las bases de datos actualmente utilizan un *lenguaje de consulta estructurada (SQL)* para escribir y consultar datos. [6]
+
+#### Bug
+En el ámbito informático se refiere a una falla o defecto inesperado. [7]
+
+#### Caché
+Se refiere a un tipo de memoria de corta duración que almacena datos para que en un futuro éstos sean accesados más rápidamente. [8,9]
 
 
 ## Fuentes utilizadas:
@@ -31,9 +37,9 @@ Una base de datos es una recopilación organizada de información, comúnmente a
 4. [Backend](https://techterms.com/definition/backend)
 5. [Kit Básico para Desarrolladores](https://blog.padawan.dev/kit-basico-para-desarrolladores/)
 6. [Base de Datos Definida](https://www.oracle.com/mx/database/what-is-database/)
-7. []()
-8. []()
-9. []()
+7. [Definition of bug](https://www.merriam-webster.com/dictionary/bug)
+8. [Definition of cache](https://www.merriam-webster.com/dictionary/cache)
+9. [Cache (computing)](https://en.wikipedia.org/wiki/Cache_(computing))
 10. []()
 11. []()
 12. []()
