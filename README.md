@@ -14,10 +14,10 @@ Por definición, es una secuencia de pasos a realizar para obtener un resultado 
 
 #### API (Application Programming Interface)
 Acrónimo para *Application Programming Interface* (Interfaz de Programación de Aplicaciones), que es el software intermediario que permite que dos aplicaciones se comuniquen entre ellas.
-Podríamos pensar en las APIs como si fueran un mesero; un mesero permite que exista la comunicación entre el comensal tomando su orden (o requerimiento) y comunicándola al cocinero, y a su vez entrega el platillo del cocinero al comensal. De esta misma manera las APIs comunican los requerimientos del usuario de una aplicación con las bases de datos del sistema para entregarle al usuario la información o acción que desea.[3]
+Podríamos pensar en las APIs como si fueran un mesero; un mesero permite que exista la comunicación entre el comensal tomando su orden (o requerimiento) y comunicándola al cocinero, y a su vez entrega el platillo del cocinero al comensal. De esta misma manera las APIs comunican los requerimientos de lxs usuarixs de una aplicación con las bases de datos del sistema para entregarles la información o realizar la acción que soliciten.[3]
 
 #### Backend
-Se refiere a todas y cualquier parte del código de una página web, aplicación o programa que el usuario no puede ver. Es el conjunto de herramientas que se encargan de administrar la información desde el servidor.
+Se refiere a todas y cualquier parte del código de una página web, aplicación o programa que lxs usuarixs no pueden ver. Es el conjunto de herramientas que se encargan de administrar la información desde el servidor.
 Algunos de sus componentes son bases de datos, servidor web y algunos lenguajes de programación, entre otros.[4,5]
 
 #### Base de datos
@@ -38,9 +38,68 @@ Conocida comúnmente como *cloud* o *nube* en español, y es el uso de recursos 
 #### Compilar
 Convertir un código escrito en cualquier lenguaje de programación a lenguaje máquina (binario). [12]
 
+#### Computer Cookies
+Es una porción de información que queda guardada durante el uso de una página web. Existen varios tipos de *cookies*, y pueden estar compuestas de información de inicio de sesión, la actividad de lxs usuarixs en la página, registros de frecuencia de visitas, etc. Son útiles para facilitar la navegación de las personas en la web. [14]
+
+#### Computer Data
+Es toda la información que existe en una computadora; puede ser desde un documento de texto, una imagen, video, hasta un programa o una aplicación. Esta información es procesada por el CPU (*Central Processing Unit*) y es almacenada en archivos y carpetas en el disco duro de la computadora. [16]
+
 #### Concatenar
 En programación: unir dos o más fragmentos de texto para formar uno solo. [13]
 
+#### Cyberseguridad
+Se trata de una práctica para la protección de sistemas informáticos, redes y programas digitales de **ciberataques**, que pueden consistir en acceder, modificar o destruir información confidencial corporativa o de lxs usuarixs de una red determinada con la finalidad de extorsionar o interrumpir la actividad. [15]
+
+#### DBA (Dedicated Database Administrator)
+Es la persona que se encarga de mantener las bases de datos bien configuradas y sin problemas de ejecución o performance, para que todos los datos estén disponibles de manera correcta y rápida. [17]
+
+#### DevOps
+[]
+
+#### Docker
+[]
+
+#### Docker File
+[]
+
+#### EndPoint
+[]
+
+#### Estructuras de Datos
+[]
+
+#### Frontend
+[]
+
+#### Full Stack
+[]
+
+#### GraphQL
+[]
+
+#### Hack
+[]
+
+#### Hosting/Hostear
+[]
+
+#### HTTP
+[]
+
+#### IDE
+[]
+
+#### IP
+[]
+
+#### Issue
+[]
+
+#### JSON
+[]
+
+#### Kubernetes
+[]
 
 
 ## Fuentes utilizadas:
@@ -57,10 +116,31 @@ En programación: unir dos o más fragmentos de texto para formar uno solo. [13]
 11. [Cloud computing: A complete guide](https://www.ibm.com/cloud/learn/cloud-computing-gbl)
 12. [Lenguajes compilados e interpretados](https://blog.makeitreal.camp/lenguajes-compilados-e-interpretados/)
 13. [CONCATENATE function](https://support.microsoft.com/en-us/office/concatenate-function-8f8ae884-2ca8-4f7a-b093-75d702bea31d)
-14. []()
-15. []()
-16. []()
-17. []()
+14. [What are cookies?](https://us.norton.com/internetsecurity-privacy-what-are-cookies.html)
+15. [¿Qué es la ciberseguridad?](https://www.cisco.com/c/es_mx/products/security/what-is-cybersecurity.html)
+16. [Data](https://techterms.com/definition/data)
+17. [What Does a Database Administrator Actually Do?](https://www.brentozar.com/archive/2021/03/what-does-a-database-administrator-actually-do/)
 18. []()
 19. []()
 20. []()
+21. []()
+22. []()
+23. []()
+24. []()
+25. []()
+26. []()
+27. []()
+28. []()
+29. []()
+30. []()
+31. []()
+32. []()
+33. []()
+34. []()
+35. []()
+36. []()
+37. []()
+38. []()
+39. []()
+40. []()
+41. []()
