@@ -29,6 +29,19 @@ En el ámbito informático se refiere a una falla o defecto inesperado. [7]
 #### Caché
 Se refiere a un tipo de memoria de corta duración que almacena datos para que en un futuro éstos sean accesados más rápidamente. [8,9]
 
+#### CI/CD Pipeline
+Es una metodología conformada por los principios: *Continuous Integration (CI), Continuous Delivery (CD)* y *Continuous Deployment (CD)* que ayuda a realizar entregas frecuentes al cliente a través de la automatización de algunas etapas del desarrollo de aplicaciones. Surge como una solución a los problemas de integración de código entre equipos de desarrolladores. [10]
+
+#### Cloud Computing
+Conocida comúnmente como *cloud* o *nube* en español, y es el uso de recursos informáticos como servidores, almacenamiento de datos, aplicaciones, *blockchain*, inteligencia artificial, entre otros; en la red de internet en lugar de utilizarlos de manera local. Esto trae consigo muchos beneficios, desde menores costos de operación, facilidad de crecimiento y globalización de las actividades, actualizaciones continuas, mayor seguridad, sincronización entre dispositivos, etc. [11]
+
+#### Compilar
+Convertir un código escrito en cualquier lenguaje de programación a lenguaje máquina (binario). [12]
+
+#### Concatenar
+En programación: unir dos o más fragmentos de texto para formar uno solo. [13]
+
+
 
 ## Fuentes utilizadas:
 1. [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development)
@@ -40,10 +53,10 @@ Se refiere a un tipo de memoria de corta duración que almacena datos para que e
 7. [Definition of bug](https://www.merriam-webster.com/dictionary/bug)
 8. [Definition of cache](https://www.merriam-webster.com/dictionary/cache)
 9. [Cache (computing)](https://en.wikipedia.org/wiki/Cache_(computing))
-10. []()
-11. []()
-12. []()
-13. []()
+10. [What is CI/CD?](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
+11. [Cloud computing: A complete guide](https://www.ibm.com/cloud/learn/cloud-computing-gbl)
+12. [Lenguajes compilados e interpretados](https://blog.makeitreal.camp/lenguajes-compilados-e-interpretados/)
+13. [CONCATENATE function](https://support.microsoft.com/en-us/office/concatenate-function-8f8ae884-2ca8-4f7a-b093-75d702bea31d)
 14. []()
 15. []()
 16. []()
