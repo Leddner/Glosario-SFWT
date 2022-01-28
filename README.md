@@ -54,7 +54,7 @@ Se trata de una práctica para la protección de sistemas informáticos, redes y
 Es la persona que se encarga de mantener las bases de datos bien configuradas y sin problemas de ejecución o performance, para que todos los datos estén disponibles de manera correcta y rápida. [17]
 
 #### DevOps
-[]
+El término viene de la unión de los términos *development* y *operations*, y se refiere a una cultura organizacional para el desarrollo de software que promueve la colaboración entre los equipos de desarrolladores y otras áreas, como operaciones de TI, ingeniería, calidad, entre otros; con la finalidad de que mejore la capacidad y tiempo de respuesta a las necesidades de sus consumidorxs, permitiendo que existan actualizaciones más constantes y continuas, aunque más pequeñas. [18,19]
 
 #### Docker
 []
@@ -120,8 +120,8 @@ Es la persona que se encarga de mantener las bases de datos bien configuradas y 
 15. [¿Qué es la ciberseguridad?](https://www.cisco.com/c/es_mx/products/security/what-is-cybersecurity.html)
 16. [Data](https://techterms.com/definition/data)
 17. [What Does a Database Administrator Actually Do?](https://www.brentozar.com/archive/2021/03/what-does-a-database-administrator-actually-do/)
-18. []()
-19. []()
+18. [What is DevOps? (AzureMS)](https://azure.microsoft.com/en-us/overview/what-is-devops/)
+19. [What is DevOps? (IBM)](https://www.ibm.com/cloud/learn/devops-a-complete-guide)
 20. []()
 21. []()
 22. []()
